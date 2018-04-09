@@ -1,6 +1,5 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of file.
-Creat a new branch is quick and simple.
-merge test.
+http://118.25.100.232:8080/websocket/chatwin/index.html
+
+
+
+http://118.25.100.232:8080/websocket/cusback/cus-workbar.html
